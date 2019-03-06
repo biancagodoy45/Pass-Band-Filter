@@ -1,1 +1,2 @@
-# Pass-Band-Filter Electronic project UBB
+
+Second Homework for Electronics Course. UBB 02-2018
